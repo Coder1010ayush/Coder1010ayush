@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coder1010ayush
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning react js and pytorch
+- 🌱 I’m currently learning pytorch and flutter
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me coderayush1010@gmail.com
 
