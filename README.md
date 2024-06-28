@@ -1,4 +1,4 @@
-I love working on deep learning projects
+Just a simple coder.
 
 
 <!---
