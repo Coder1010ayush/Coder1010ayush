@@ -1,4 +1,4 @@
-Just a simple coder and still a beginner.
+Just a simple coder with two hands only.
 
 
 <!---
